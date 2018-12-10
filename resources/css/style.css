@@ -3,3 +3,14 @@ body {
   text-align: center;
   font-family: Verdana;
 }
+
+.header--main {
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.link--cta {
+  font-size: 16px;
+  color: aquamarine;
+}
